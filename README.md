@@ -1,4 +1,4 @@
-<img align="center" alt="Logo" height="30" width="40" filter:invert(1); src="./src/imagens/logo.png">
+<img align="center" alt="Logo" height="30" width="40" style=filter:invert(1); src="./src/imagens/logo.png">
 
 # Esse e um projeto feito junto com o pessoal DevemDobro
 ```
