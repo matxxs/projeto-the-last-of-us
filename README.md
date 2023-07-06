@@ -2,7 +2,7 @@
 
 # Esse e um projeto feito junto com o pessoal DevemDobro
 ```
-(https://www.youtube.com/channel/UCGXiaSPSmORM_4_b05kfMlg)
+https://www.youtube.com/channel/UCGXiaSPSmORM_4_b05kfMlg
 ```
 
 Clone pro o projeto
