@@ -1,4 +1,4 @@
-<img align="center" alt="Logo" style="filter:invert(1);" src="./src/imagens/logo-branca.png">
+<img align="center" alt="Logo"  src="./src/imagens/logo-branca.png">
 
 # Esse e um projeto feito junto com o pessoal DevemDobro
 ```
@@ -9,7 +9,7 @@ Clone pro o projeto
 git clone <https://github.com/matxxs/projeto-the-last-of-us.git>
 ```
 ## Funcionamento do projeto 
-<img src="./src/imagens/the%20last%20of%20uf.gif" alt="gif da tela do projeto the last of us em execução ">
+<img src="./src/imagens/the-las-of-us.gif" alt="gif da tela do projeto the last of us em execução ">
 
 ## Mudanças a ser realizada 
 
